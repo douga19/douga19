@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rado Rakotonarivo</h1>
-<h3 align="center">A computer science lecturer, sci-fi and tcg/cgg enjoyer</h3>
+<h3 align="center">A computer science lecturer, sci-fi (+ recently fantasy) and tcg/cgg enjoyer</h3>
 
 <p align="left">
 </p>
