@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rado Rakotonarivo</h1>
+<h1 align="center">Hi 👋, I'm Rado</h1>
 <h3 align="center">A computer science lecturer, sci-fi (+ recently fantasy) and tcg/ccg enjoyer</h3>
 
 <p align="left">
